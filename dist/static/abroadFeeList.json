@@ -1,0 +1,1834 @@
+[{
+        "亚洲": {
+            "蒙古": {
+                "currency": "美元",
+                "putup": 90,
+                "meals": 50,
+                "other": 35
+            },
+            "朝鲜": {
+                "currency": "美元",
+                "putup": 90,
+                "meals": 40,
+                "other": 30
+            },
+            "韩国": {
+                "currency": "美元",
+                "city0": [
+                    "首尔",
+                    "釜山",
+                    "济州"
+                ],
+                "city1": [
+                    "关州",
+                    "西归浦"
+                ],
+                "其他城市": {
+                    "putup": 150,
+                    "meals": 70,
+                    "other": 35
+                },
+                "0": {
+                    "putup": 180,
+                    "meals": 70,
+                    "other": 35
+                },
+                "1": {
+                    "putup": 160,
+                    "meals": 70,
+                    "other": 35
+                }
+            },
+            "日本": {
+                "currency": "日元",
+                "city0": [
+                    "东京"
+                ],
+                "city1": [
+                    "大阪"
+                ],
+                "city2": [
+                    "福冈",
+                    "札幌",
+                    "长崎",
+                    "名古屋"
+                ],
+                "其它城市": {
+                    "putup": 9000,
+                    "meals": 10000,
+                    "other": 5000
+                },
+                "0": {
+                    "putup": 20000,
+                    "meals": 10000,
+                    "other": 5000
+                },
+                "1": {
+                    "putup": 18000,
+                    "meals": 10000,
+                    "other": 5000
+                },
+                "2": {
+                    "putup": 14000,
+                    "meals": 1000,
+                    "other": 5000
+                }
+            },
+            "缅甸": {
+                "currency": "美元",
+                "putup": 90,
+                "meals": 50,
+                "other": 35
+            },
+            "巴基斯坦": {
+                "currency": "美元",
+                "city0": [
+                    "伊斯兰堡",
+                    "拉合尔",
+                    "卡拉奇"
+                ],
+                "city1": [
+                    "奎达"
+                ],
+                "0": {
+                    "putup": 135,
+                    "meals": 30,
+                    "other": 30
+                },
+                "1": {
+                    "putup": 70,
+                    "meals": 30,
+                    "other": 30
+                },
+                "其他城市": {
+                    "putup": 60,
+                    "meals": 30,
+                    "other": 30
+                }
+            },
+            "斯里兰卡": {
+                "currency": "美元",
+                "putup": 110,
+                "meals": 40,
+                "other": 30
+            },
+            "马尔代夫": {
+                "currency": "美元",
+                "putup": 160,
+                "meals": 50,
+                "other": 30
+            },
+            "孟加拉": {
+                "currency": "美元",
+                "putup": 150,
+                "meals": 50,
+                "other": 30
+            },
+            "伊拉克": {
+                "currency": "美元",
+                "putup": 170,
+                "meals": 50,
+                "other": 40
+            },
+            "阿拉伯联合酋长国": {
+                "currency": "美元",
+                "putup": 200,
+                "meals": 50,
+                "other": 40
+            },
+            "也门": {
+                "currency": "美元",
+                "city0": [
+                    "萨那"
+                ],
+                "city1": [
+                    "亚丁"
+                ],
+                "0": {
+                    "putup": 110,
+                    "meals": 50,
+                    "other": 35
+                },
+                "1": {
+                    "putup": 90,
+                    "meals": 50,
+                    "other": 35
+                },
+                "其它城市": {
+                    "putup": 80,
+                    "meals": 50,
+                    "other": 35
+                }
+            },
+            "阿曼": {
+                "currency": "美元",
+                "putup": 150,
+                "meals": 50,
+                "other": 40
+            },
+            "伊朗": {
+                "currency": "美元",
+                "putup": 95,
+                "meals": 50,
+                "other": 40
+            },
+            "科威特": {
+                "currency": "美元",
+                "putup": 200,
+                "meals": 70,
+                "other": 40
+            },
+            "沙特阿拉伯": {
+                "currency": "美元",
+                "city0": [
+                    "利雅得"
+                ],
+                "city1": [
+                    "吉达"
+                ],
+                "0": {
+                    "putup": 200,
+                    "meals": 70,
+                    "other": 40
+                },
+                "1": {
+                    "putup": 140,
+                    "meals": 70,
+                    "other": 40
+                },
+                "其它城市": {
+                    "putup": 120,
+                    "meals": 70,
+                    "other": 40
+                }
+            },
+            "巴林": {
+                "currency": "美元",
+                "putup": 160,
+                "meals": 55,
+                "other": 40
+            },
+            "以色列": {
+                "currency": "美元",
+                "putup": 200,
+                "meals": 70,
+                "other": 40
+            },
+            "文莱": {
+                "currency": "美元",
+                "putup": 130,
+                "meals": 40,
+                "other": 35
+            },
+            "印度": {
+                "currency": "美元",
+                "city0": [
+                    "新德里",
+                    "加尔各答"
+                ],
+                "city1": [
+                    "孟买"
+                ],
+                "0": {
+                    "putup": 175,
+                    "meals": 50,
+                    "other": 35
+                },
+                "1": {
+                    "putup": 200,
+                    "meals": 50,
+                    "other": 35
+                },
+                "其它城市": {
+                    "putup": 150,
+                    "meals": 50,
+                    "other": 35
+                }
+            },
+            "不丹": {
+                "currency": "美元",
+                "putup": 160,
+                "meals": 50,
+                "other": 35
+            },
+            "越南": {
+                "currency": "美元",
+                "city0": [
+                    "河内"
+                ],
+                "city1": [
+                    "胡志明"
+                ],
+                "0": {
+                    "putup": 90,
+                    "meals": 40,
+                    "other": 30
+                },
+                "1": {
+                    "putup": 80,
+                    "meals": 40,
+                    "other": 30
+                },
+                "其它城市": {
+                    "putup": 70,
+                    "meals": 40,
+                    "other": 30
+                }
+            },
+            "柬埔寨": {
+                "currency": "美元",
+                "putup": 100,
+                "meals": 40,
+                "other": 30
+            },
+            "老挝": {
+                "currency": "美元",
+                "putup": 90,
+                "meals": 40,
+                "other": 30
+            },
+            "马来西亚": {
+                "currency": "美元",
+                "putup": 110,
+                "meals": 50,
+                "other": 30
+            },
+            "菲律宾": {
+                "currency": "美元",
+                "putup": 130,
+                "meals": 50,
+                "other": 35
+            },
+            "印度尼西亚": {
+                "currency": "美元",
+                "putup": 125,
+                "meals": 50,
+                "other": 35
+            },
+            "东帝汶": {
+                "currency": "美元",
+                "putup": 130,
+                "meals": 40,
+                "other": 35
+            },
+            "泰国": {
+                "currency": "美元",
+                "city0": [
+                    "曼谷"
+                ],
+                "city1": [
+                    "宋卡"
+                ],
+                "city2": [
+                    "清迈",
+                    "孔敬"
+                ],
+                "0": {
+                    "putup": 140,
+                    "meals": 50,
+                    "other": 35
+                },
+                "1": {
+                    "putup": 110,
+                    "meals": 50,
+                    "other": 35
+                },
+                "2": {
+                    "putup": 90,
+                    "meals": 50,
+                    "other": 35
+                },
+                "其它城市": {
+                    "putup": 80,
+                    "meals": 50,
+                    "other": 35
+                }
+            },
+            "新加坡": {
+                "currency": "美元",
+                "putup": 220,
+                "meals": 55,
+                "other": 40
+            },
+            "阿富汗": {
+                "currency": "美元",
+                "putup": 100,
+                "meals": 38,
+                "other": 30
+            },
+            "尼泊尔": {
+                "currency": "美元",
+                "putup": 140,
+                "meals": 50,
+                "other": 35
+            },
+            "黎巴嫩": {
+                "currency": "美元",
+                "putup": 150,
+                "meals": 50,
+                "other": 35
+            },
+            "塞浦路斯": {
+                "currency": "美元",
+                "putup": 100,
+                "meals": 40,
+                "other": 35
+            },
+            "约旦": {
+                "currency": "美元",
+                "putup": 120,
+                "meals": 50,
+                "other": 35
+            },
+            "土耳其": {
+                "currency": "美元",
+                "city0": [
+                    "安卡拉"
+                ],
+                "city1": [
+                    "伊斯坦布尔"
+                ],
+                "0": {
+                    "putup": 105,
+                    "meals": 45,
+                    "other": 30
+                },
+                "1": {
+                    "putup": 150,
+                    "meals": 40,
+                    "other": 30
+                },
+                "其它城市": {
+                    "putup": 90,
+                    "meals": 40,
+                    "other": 30
+                }
+            },
+            "叙利亚": {
+                "currency": "美元",
+                "putup": 110,
+                "meals": 50,
+                "other": 35
+            },
+            "卡塔尔": {
+                "currency": "美元",
+                "putup": 160,
+                "meals": 60,
+                "other": 40
+            },
+            "香港": {
+                "currency": "港币",
+                "putup": 1500,
+                "meals": 500,
+                "other": 300
+            },
+            "澳门": {
+                "currency": "港币",
+                "putup": 1200,
+                "meals": 500,
+                "other": 300
+            },
+            "台湾": {
+                "currency": "美元",
+                "putup": 150,
+                "meals": 60,
+                "other": 40
+            }
+        }
+    },
+    {
+        "非洲": {
+            "马达加斯加": {
+                "currency": "美元",
+                "city0": [
+                    "塔纳纳利佛"
+                ],
+                "city": [
+                    "塔马塔夫"
+                ],
+                "0": {
+                    "putup": 130,
+                    "meals": 38,
+                    "other": 30
+                },
+                "1": {
+                    "putup": 100,
+                    "meals": 38,
+                    "other": 30
+                },
+                "其它城市": {
+                    "putup": 90,
+                    "meals": 38,
+                    "other": 30
+                }
+            },
+            "喀麦隆": {
+                "currency": "美元",
+                "putup": 120,
+                "meals": 50,
+                "other": 35
+            },
+            "多哥": {
+                "currency": "美元",
+                "putup": 110,
+                "meals": 48,
+                "other": 35
+            },
+            "科特迪瓦": {
+                "currency": "美元",
+                "putup": 120,
+                "meals": 50,
+                "other": 35
+            },
+            "摩洛哥": {
+                "currency": "美元",
+                "putup": 130,
+                "meals": 50,
+                "other": 40
+            },
+            "阿尔及利亚": {
+                "currency": "美元",
+                "putup": 180,
+                "meals": 55,
+                "other": 35
+            },
+            "卢旺达": {
+                "currency": "美元",
+                "putup": 130,
+                "meals": 32,
+                "other": 30
+            },
+            "几内亚": {
+                "currency": "美元",
+                "putup": 130,
+                "meals": 55,
+                "other": 35
+            },
+            "埃塞尔比亚": {
+                "currency": "美元",
+                "putup": 210,
+                "meals": 50,
+                "other": 35
+            },
+            "厄立特里亚": {
+                "currency": "美元",
+                "putup": 110,
+                "meals": 50,
+                "other": 35
+            },
+            "莫桑比克": {
+                "currency": "美元",
+                "putup": 170,
+                "meals": 50,
+                "other": 35
+            },
+            "塞舍尔": {
+                "currency": "美元",
+                "putup": 240,
+                "meals": 50,
+                "other": 35
+            },
+            "肯尼亚": {
+                "currency": "美元",
+                "putup": 195,
+                "meals": 50,
+                "other": 35
+            },
+            "利比亚": {
+                "currency": "美元",
+                "putup": 160,
+                "meals": 50,
+                "other": 35
+            },
+            "安哥拉": {
+                "currency": "美元",
+                "putup": 400,
+                "meals": 60,
+                "other": 40
+            },
+            "赛比亚": {
+                "currency": "美元",
+                "putup": 150,
+                "meals": 45,
+                "other": 35
+            },
+            "几内亚比绍": {
+                "currency": "美元",
+                "putup": 135,
+                "meals": 45,
+                "other": 35
+            },
+            "突尼斯": {
+                "currency": "美元",
+                "putup": 100,
+                "meals": 40,
+                "other": 35
+            },
+            "布隆迪": {
+                "currency": "美元",
+                "putup": 150,
+                "meals": 40,
+                "other": 35
+            },
+            "莱索托": {
+                "currency": "美元",
+                "putup": 100,
+                "meals": 35,
+                "other": 30
+            },
+            "津巴布韦": {
+                "currency": "美元",
+                "putup": 120,
+                "meals": 45,
+                "other": 33
+            },
+            "尼日利亚": {
+                "currency": "美元",
+                "city0": [
+                    "阿布贾"
+                ],
+                "city1": [
+                    "拉各斯"
+                ],
+                "0": {
+                    "putup": 270,
+                    "meals": 60,
+                    "other": 35
+                },
+                "1": {
+                    "putup": 300,
+                    "meals": 60,
+                    "other": 35
+                },
+                "其它城市": {
+                    "putup": 250,
+                    "meals": 60,
+                    "other": 35
+                }
+            },
+            "毛里求斯": {
+                "currency": "美元",
+                "putup": 155,
+                "meals": 35,
+                "other": 35
+            },
+            "索马里": {
+                "currency": "美元",
+                "putup": 180,
+                "meals": 35,
+                "other": 35
+            },
+            "苏丹": {
+                "currency": "美元",
+                "putup": 130,
+                "meals": 32,
+                "other": 32
+            },
+            "贝宁": {
+                "currency": "美元",
+                "putup": 150,
+                "meals": 30,
+                "other": 30
+            },
+            "马里": {
+                "currency": "美元",
+                "putup": 150,
+                "meals": 35,
+                "other": 35
+            },
+            "乌干达": {
+                "currency": "美元",
+                "putup": 170,
+                "meals": 35,
+                "other": 35
+            },
+            "塞拉利昂": {
+                "currency": "美元",
+                "putup": 155,
+                "meals": 50,
+                "other": 35
+            },
+            "吉布提": {
+                "currency": "美元",
+                "putup": 160,
+                "meals": 60,
+                "other": 35
+            },
+            "塞内加尔": {
+                "currency": "美元",
+                "putup": 165,
+                "meals": 50,
+                "other": 35
+            },
+            "冈比亚": {
+                "currency": "美元",
+                "putup": 170,
+                "meals": 50,
+                "other": 35
+            },
+            "加蓬": {
+                "currency": "美元",
+                "putup": 180,
+                "meals": 60,
+                "other": 35
+            },
+            "中非": {
+                "currency": "美元",
+                "putup": 140,
+                "meals": 50,
+                "other": 35
+            },
+            "布基纳法索": {
+                "currency": "美元",
+                "putup": 140,
+                "meals": 50,
+                "other": 35
+            },
+            "毛里塔尼亚": {
+                "currency": "美元",
+                "putup": 130,
+                "meals": 55,
+                "other": 35
+            },
+            "尼日尔": {
+                "currency": "美元",
+                "putup": 145,
+                "meals": 50,
+                "other": 35
+            },
+            "乍得": {
+                "currency": "美元",
+                "putup": 220,
+                "meals": 50,
+                "other": 35
+            },
+            "赤道几内亚": {
+                "currency": "美元",
+                "putup": 200,
+                "meals": 50,
+                "other": 35
+            },
+            "加纳": {
+                "currency": "美元",
+                "putup": 200,
+                "meals": 50,
+                "other": 35
+            },
+            "坦桑尼亚": {
+                "currency": "美元",
+                "city0": [
+                    "达累斯塞拉姆"
+                ],
+                "city1": [
+                    "桑给巴布"
+                ],
+                "0": {
+                    "putup": 180,
+                    "meals": 50,
+                    "other": 35
+                },
+                "1": {
+                    "putup": 210,
+                    "meals": 50,
+                    "other": 35
+                },
+                "其它城市": {
+                    "putup": 160,
+                    "meals": 50,
+                    "other": 35
+                }
+            },
+            "刚果(金)": {
+                "currency": "美元",
+                "putup": 220,
+                "meals": 50,
+                "other": 35
+            },
+            "刚果(步)": {
+                "currency": "美元",
+                "putup": 170,
+                "meals": 50,
+                "other": 35
+            },
+            "埃及": {
+                "currency": "美元",
+                "putup": 170,
+                "meals": 50,
+                "other": 35
+            },
+            "圣多美和普林西比": {
+                "currency": "美元",
+                "putup": 170,
+                "meals": 50,
+                "other": 35
+            },
+            "博茨瓦纳": {
+                "currency": "美元",
+                "putup": 170,
+                "meals": 50,
+                "other": 35
+            },
+            "南非": {
+                "currency": "美元",
+                "city0": [
+                    "比勒陀利亚",
+                    "约翰内斯堡"
+                ],
+                "city1": [
+                    "开普敦"
+                ],
+                "city2": [
+                    "得班"
+                ],
+                "0": {
+                    "putup": 170,
+                    "meals": 50,
+                    "other": 35
+                },
+                "1": {
+                    "putup": 210,
+                    "meals": 50,
+                    "other": 35
+                },
+                "2": {
+                    "putup": 150,
+                    "meals": 50,
+                    "other": 35
+                },
+                "其它城市": {
+                    "putup": 130,
+                    "meals": 50,
+                    "other": 35
+                }
+            },
+            "纳米比亚": {
+                "currency": "美元",
+                "putup": 140,
+                "meals": 35,
+                "other": 30
+            },
+            "斯威士兰": {
+                "currency": "美元",
+                "putup": 150,
+                "meals": 50,
+                "other": 35
+            },
+            "利比里亚": {
+                "currency": "美元",
+                "putup": 195,
+                "meals": 50,
+                "other": 35
+            },
+            "佛得角": {
+                "currency": "美元",
+                "putup": 120,
+                "meals": 50,
+                "other": 35
+            },
+            "科摩罗": {
+                "currency": "美元",
+                "putup": 120,
+                "meals": 40,
+                "other": 35
+            },
+            "南苏丹": {
+                "currency": "美元",
+                "putup": 160,
+                "meals": 40,
+                "other": 32
+            },
+            "马拉维": {
+                "currency": "美元",
+                "putup": 130,
+                "meals": 50,
+                "other": 35
+            }
+        }
+    },
+    {
+        "欧洲": {
+            "罗马尼亚": {
+                "currency": "美元",
+                "city0": [
+                    "布加勒斯特"
+                ],
+                "city1": [
+                    "康斯坦察"
+                ],
+                "0": {
+                    "putup": 120,
+                    "meals": 45,
+                    "other": 40
+                },
+                "1": {
+                    "putup": 90,
+                    "meals": 50,
+                    "other": 40
+                },
+                "其它城市": {
+                    "putup": 80,
+                    "meals": 50,
+                    "other": 40
+                }
+            },
+            "马其顿": {
+                "currency": "美元",
+                "putup": 120,
+                "meals": 50,
+                "other": 35
+            },
+            "斯洛文尼亚": {
+                "currency": "美元",
+                "putup": 90,
+                "meals": 30,
+                "other": 25
+            },
+            "波黑": {
+                "currency": "美元",
+                "putup": 100,
+                "meals": 40,
+                "other": 35
+            },
+            "克罗地亚": {
+                "currency": "美元",
+                "putup": 120,
+                "meals": 40,
+                "other": 35
+            },
+            "阿尔巴比亚": {
+                "currency": "美元",
+                "putup": 150,
+                "meals": 35,
+                "other": 30
+            },
+            "保加利亚": {
+                "currency": "美元",
+                "putup": 110,
+                "meals": 45,
+                "other": 35
+            },
+            "俄罗斯": {
+                "currency": "美元",
+                "city0": [
+                    "莫斯科"
+                ],
+                "city1": [
+                    "哈巴罗夫斯克"
+                ],
+                "city2": [
+                    "叶卡捷琳堡"
+                ],
+                "city3": [
+                    "伊尔库茨克"
+                ],
+                "0": {
+                    "putup": 285,
+                    "meals": 45,
+                    "other": 40
+                },
+                "1": {
+                    "putup": 200,
+                    "meals": 45,
+                    "other": 40
+                },
+                "2": {
+                    "putup": 170,
+                    "meals": 45,
+                    "other": 40
+                },
+                "3": {
+                    "putup": 150,
+                    "meals": 45,
+                    "other": 40
+                },
+                "其它城市": {
+                    "putup": 140,
+                    "meals": 45,
+                    "other": 40
+                }
+            },
+            "立陶宛": {
+                "currency": "美元",
+                "putup": 120,
+                "meals": 45,
+                "other": 35
+            },
+            "拉脱维亚": {
+                "currency": "美元",
+                "putup": 90,
+                "meals": 35,
+                "other": 25
+            },
+            "爱沙尼亚": {
+                "currency": "美元",
+                "putup": 90,
+                "meals": 35,
+                "other": 25
+            },
+            "乌克兰": {
+                "currency": "美元",
+                "city0": [
+                    "基辅"
+                ],
+                "city1": [
+                    "敖德萨"
+                ],
+                "0": {
+                    "putup": 100,
+                    "meals": 45,
+                    "other": 40
+                },
+                "1": {
+                    "putup": 130,
+                    "meals": 45,
+                    "other": 40
+                },
+                "其它城市": {
+                    "putup": 80,
+                    "meals": 45,
+                    "other": 40
+                }
+            },
+            "阿塞拜疆": {
+                "currency": "美元",
+                "putup": 150,
+                "meals": 45,
+                "other": 40
+            },
+            "亚美尼亚": {
+                "currency": "美元",
+                "putup": 120,
+                "meals": 45,
+                "other": 40
+            },
+            "格鲁吉亚": {
+                "currency": "美元",
+                "putup": 150,
+                "meals": 45,
+                "other": 40
+            },
+            "吉尔吉斯斯坦": {
+                "currency": "美元",
+                "city0": [
+                    "比什凯克"
+                ],
+                "0": {
+                    "putup": 230,
+                    "meals": 45,
+                    "other": 40
+                },
+                "其它城市": {
+                    "putup": 80,
+                    "meals": 45,
+                    "other": 40
+                }
+            },
+            "塔吉克斯坦": {
+                "currency": "美元",
+                "putup": 210,
+                "meals": 45,
+                "other": 40
+            },
+            "土库曼斯坦": {
+                "currency": "美元",
+                "putup": 120,
+                "meals": 45,
+                "other": 40
+            },
+            "乌兹别克斯坦": {
+                "currency": "美元",
+                "city0": [
+                    "塔什干"
+                ],
+                "city1": [
+                    "撒马尔罕"
+                ],
+                "0": {
+                    "putup": 120,
+                    "meals": 40,
+                    "other": 32
+                },
+                "1": {
+                    "putup": 100,
+                    "meals": 40,
+                    "other": 32
+                },
+                "其它城市": {
+                    "putup": 90,
+                    "meals": 40,
+                    "other": 32
+                }
+            },
+            "白俄罗斯": {
+                "currency": "美元",
+                "putup": 180,
+                "meals": 45,
+                "other": 40
+            },
+            "哈萨克斯坦": {
+                "currency": "美元",
+                "city0": [
+                    "阿斯塔纳"
+                ],
+                "city1": [
+                    "阿拉木图"
+                ],
+                "0": {
+                    "putup": 160,
+                    "meals": 45,
+                    "other": 40
+                },
+                "1": {
+                    "putup": 200,
+                    "meals": 45,
+                    "other": 40
+                },
+                "其他城市": {
+                    "putup": 140,
+                    "meals": 45,
+                    "other": 40
+                }
+            },
+            "摩尔多瓦": {
+                "currency": "美元",
+                "putup": 90,
+                "meals": 45,
+                "other": 40
+            },
+            "波兰": {
+                "currency": "美元",
+                "city0": [
+                    "华沙"
+                ],
+                "city1": [
+                    "革但斯克"
+                ],
+                "0": {
+                    "putup": 150,
+                    "meals": 50,
+                    "other": 40
+                },
+                "1": {
+                    "putup": 130,
+                    "meals": 50,
+                    "other": 40
+                },
+                "其它城市": {
+                    "putup": 120,
+                    "meals": 50,
+                    "other": 40
+                }
+            },
+            "德国": {
+                "currency": "欧元",
+                "city0": [
+                    "柏林",
+                    "汉堡"
+                ],
+                "city1": [
+                    "慕尼黑"
+                ],
+                "city2": [
+                    "法兰克福"
+                ],
+                "0": {
+                    "putup": 150,
+                    "meals": 60,
+                    "other": 38
+                },
+                "1": {
+                    "putup": 130,
+                    "meals": 60,
+                    "other": 38
+                },
+                "2": {
+                    "putup": 180,
+                    "meals": 60,
+                    "other": 38
+                },
+                "其它城市": {
+                    "putup": 120,
+                    "meals": 60,
+                    "other": 38
+                }
+            },
+            "荷兰": {
+                "currency": "欧元",
+                "city0": [
+                    "海牙"
+                ],
+                "city1": [
+                    "阿姆斯特丹"
+                ],
+                "0": {
+                    "putup": 150,
+                    "meals": 60,
+                    "other": 38
+                },
+                "1": {
+                    "putup": 170,
+                    "meals": 60,
+                    "other": 38
+                },
+                "其它城市": {
+                    "putup": 130,
+                    "meals": 60,
+                    "other": 28
+                }
+            },
+            "意大利": {
+                "currency": "欧元",
+                "city0": [
+                    "罗马"
+                ],
+                "city1": [
+                    "米兰"
+                ],
+                "city2": [
+                    "佛罗伦萨"
+                ],
+                "0": {
+                    "putup": 160,
+                    "meals": 65,
+                    "other": 38
+                },
+                "1": {
+                    "putup": 140,
+                    "meals": 65,
+                    "other": 38
+                },
+                "2": {
+                    "putup": 120,
+                    "meals": 65,
+                    "other": 38
+                },
+                "其它城市": {
+                    "putup": 110,
+                    "meals": 65,
+                    "other": 38
+                }
+            },
+            "比利时": {
+                "currency": "欧元",
+                "putup": 160,
+                "meals": 60,
+                "other": 38
+            },
+            "奥地利": {
+                "currency": "欧元",
+                "putup": 140,
+                "meals": 60,
+                "other": 38
+            },
+            "希腊": {
+                "currency": "欧元",
+                "putup": 110,
+                "meals": 55,
+                "other": 38
+            },
+            "法国": {
+                "currency": "欧元",
+                "city0": [
+                    "巴黎"
+                ],
+                "city1": [
+                    "马赛",
+                    "斯特拉斯堡",
+                    "里昂"
+                ],
+                "0": {
+                    "putup": 150,
+                    "meals": 60,
+                    "other": 40
+                },
+                "1": {
+                    "putup": 130,
+                    "meals": 60,
+                    "other": 40
+                },
+                "其它城市": {
+                    "putup": 120,
+                    "meals": 60,
+                    "other": 40
+                }
+            },
+            "西班牙": {
+                "currency": "欧元",
+                "putup": 125,
+                "meals": 60,
+                "other": 38
+            },
+            "卢森堡": {
+                "currency": "欧元",
+                "putup": 160,
+                "meals": 55,
+                "other": 38
+            },
+            "爱尔兰": {
+                "currency": "欧元",
+                "putup": 120,
+                "meals": 60,
+                "other": 38
+            },
+            "葡萄牙": {
+                "currency": "欧元",
+                "putup": 130,
+                "meals": 60,
+                "other": 38
+            },
+            "芬兰": {
+                "currency": "欧元",
+                "putup": 145,
+                "meals": 60,
+                "other": 40
+            },
+            "捷克": {
+                "currency": "美元",
+                "putup": 160,
+                "meals": 45,
+                "other": 50
+            },
+            "斯洛伐克": {
+                "currency": "欧元",
+                "putup": 90,
+                "meals": 35,
+                "other": 45
+            },
+            "匈牙利": {
+                "currency": "美元",
+                "putup": 180,
+                "meals": 45,
+                "other": 45
+            },
+            "瑞典": {
+                "currency": "美元",
+                "putup": 280,
+                "meals": 80,
+                "other": 50
+            },
+            "丹麦": {
+                "currency": "美元",
+                "putup": 200,
+                "meals": 80,
+                "other": 50
+            },
+            "挪威": {
+                "currency": "美元",
+                "putup": 200,
+                "meals": 80,
+                "other": 50
+            },
+            "瑞士": {
+                "currency": "美元",
+                "putup": 200,
+                "meals": 70,
+                "other": 50
+            },
+            "冰岛": {
+                "currency": "美元",
+                "putup": 200,
+                "meals": 65,
+                "other": 50
+            },
+            "马耳他": {
+                "currency": "欧元",
+                "putup": 90,
+                "meals": 38,
+                "other": 25
+            },
+            "塞尔维亚": {
+                "currency": "美元",
+                "putup": 120,
+                "meals": 40,
+                "other": 30
+            },
+            "黑山": {
+                "currency": "欧元",
+                "putup": 90,
+                "meals": 30,
+                "other": 22
+            },
+            "英国": {
+                "currency": "英镑",
+                "city0": [
+                    "伦敦"
+                ],
+                "city1": [
+                    "曼切斯特",
+                    "爱丁堡"
+                ],
+                "0": {
+                    "putup": 160,
+                    "meals": 45,
+                    "other": 35
+                },
+                "1": {
+                    "putup": 140,
+                    "meals": 45,
+                    "other": 35
+                },
+                "其它城市": {
+                    "putup": 125,
+                    "meals": 45,
+                    "other": 35
+                }
+            }
+        }
+    },
+    {
+        "美洲": {
+            "美国": {
+                "city0": [
+                    "华盛顿"
+                ],
+                "city1": [
+                    "旧金山"
+                ],
+                "city2": [
+                    "休斯顿"
+                ],
+                "city3": [
+                    "波士顿"
+                ],
+                "city4": [
+                    "纽约"
+                ],
+                "city5": [
+                    "芝加哥"
+                ],
+                "city6": [
+                    "洛杉矶"
+                ],
+                "city7": [
+                    "夏威夷"
+                ],
+                "0": {
+                    "putup": 210,
+                    "meals": 55,
+                    "other": 45
+                },
+                "1": {
+                    "putup": 250,
+                    "meals": 55,
+                    "other": 45
+                },
+                "2": {
+                    "putup": 180,
+                    "meals": 55,
+                    "other": 45
+                },
+                "3": {
+                    "putup": 230,
+                    "meals": 55,
+                    "other": 45
+                },
+                "4": {
+                    "putup": 245,
+                    "meals": 55,
+                    "other": 45
+                },
+                "5": {
+                    "putup": 220,
+                    "meals": 55,
+                    "other": 45
+                },
+                "6": {
+                    "putup": 200,
+                    "meals": 55,
+                    "other": 45
+                },
+                "7": {
+                    "putup": 195,
+                    "meals": 55,
+                    "other": 45
+                },
+                "其它城市": {
+                    "putup": 160,
+                    "meals": 55,
+                    "other": 45
+                }
+            },
+            "加拿大": {
+                "city0": [
+                    "渥太华",
+                    "多伦多",
+                    "卡尔加里",
+                    "蒙特利尔"
+                ],
+                "city1": [
+                    "温哥华"
+                ],
+                "0": {
+                    "putup": 210,
+                    "meals": 55,
+                    "other": 45
+                },
+                "1": {
+                    "putup": 240,
+                    "meals": 55,
+                    "other": 45
+                },
+                "其它城市": {
+                    "putup": 190,
+                    "meals": 55,
+                    "other": 45
+                }
+            },
+            "墨西哥": {
+                "city0": [
+                    "墨西哥"
+                ],
+                "city1": [
+                    "蒂华纳"
+                ],
+                "0": {
+                    "putup": 150,
+                    "meals": 50,
+                    "other": 45
+                },
+                "1": {
+                    "putup": 120,
+                    "meals": 50,
+                    "other": 45
+                },
+                "其它城市": {
+                    "putup": 100,
+                    "meals": 50,
+                    "other": 45
+                }
+            },
+            "巴西": {
+                "city0": [
+                    "巴西利亚"
+                ],
+                "city1": [
+                    "圣保罗"
+                ],
+                "city2": [
+                    "里约热内卢"
+                ],
+                "0": {
+                    "putup": 160,
+                    "meals": 50,
+                    "other": 45
+                },
+                "1": {
+                    "putup": 240,
+                    "meals": 50,
+                    "other": 45
+                },
+                "2": {
+                    "putup": 260,
+                    "meals": 50,
+                    "other": 45
+                },
+                "其它城市": {
+                    "putup": 150,
+                    "meals": 50,
+                    "other": 45
+                }
+            },
+            "牙买加": {
+                "putup": 160,
+                "meals": 50,
+                "other": 45
+            },
+            "特立尼达和多巴哥": {
+                "putup": 180,
+                "meals": 50,
+                "other": 45
+            },
+            "厄瓜多尔": {
+                "putup": 120,
+                "meals": 40,
+                "other": 32
+            },
+            "阿根廷": {
+                "putup": 130,
+                "meals": 50,
+                "other": 45
+            },
+            "乌拉圭": {
+                "putup": 115,
+                "meals": 50,
+                "other": 45
+            },
+            "智利": {
+                "city0": [
+                    "圣地亚哥"
+                ],
+                "city1": [
+                    "伊基克"
+                ],
+                "city2": [
+                    "安托法加斯塔",
+                    "阿卡里"
+                ],
+                "0": {
+                    "putup": 135,
+                    "meals": 47,
+                    "other": 45
+                },
+                "1": {
+                    "putup": 120,
+                    "meals": 47,
+                    "other": 45
+                },
+                "2": {
+                    "putup": 110,
+                    "meals": 47,
+                    "other": 45
+                },
+                "其它城市": {
+                    "putup": 100,
+                    "meals": 47,
+                    "other": 45
+                }
+            },
+            "哥伦比亚": {
+                "city0": [
+                    "波哥大"
+                ],
+                "city1": [
+                    "麦德林"
+                ],
+                "city2": [
+                    "卡塔赫纳"
+                ],
+                "0": {
+                    "putup": 190,
+                    "meals": 40,
+                    "other": 35
+                },
+                "1": {
+                    "putup": 110,
+                    "meals": 40,
+                    "other": 35
+                },
+                "2": {
+                    "putup": 120,
+                    "meals": 40,
+                    "other": 35
+                },
+                "其它城市": {
+                    "putup": 100,
+                    "meals": 40,
+                    "other": 35
+                }
+            },
+            "巴巴多斯": {
+                "putup": 250,
+                "meals": 60,
+                "other": 45
+            },
+            "圭亚那": {
+                "putup": 160,
+                "meals": 50,
+                "other": 45
+            },
+            "古巴": {
+                "putup": 135,
+                "meals": 40,
+                "other": 37
+            },
+            "巴拿马": {
+                "putup": 135,
+                "meals": 45,
+                "other": 45
+            },
+            "格林纳达": {
+                "putup": 190,
+                "meals": 45,
+                "other": 45
+            },
+            "安提瓜和巴布达": {
+                "putup": 150,
+                "meals": 60,
+                "other": 45
+            },
+            "秘鲁": {
+                "putup": 140,
+                "meals": 40,
+                "other": 45
+            },
+            "玻利维亚": {
+                "putup": 110,
+                "meals": 36,
+                "other": 30
+            },
+            "尼加拉瓜": {
+                "putup": 120,
+                "meals": 45,
+                "other": 45
+            },
+            "苏里南": {
+                "putup": 110,
+                "meals": 50,
+                "other": 45
+            },
+            "委内瑞拉": {
+                "putup": 230,
+                "meals": 45,
+                "other": 45
+            },
+            "海地": {
+                "putup": 180,
+                "meals": 45,
+                "other": 43
+            },
+            "波多黎各": {
+                "putup": 150,
+                "meals": 45,
+                "other": 45
+            },
+            "多米尼加": {
+                "putup": 150,
+                "meals": 45,
+                "other": 45
+            },
+            "多米尼克": {
+                "putup": 120,
+                "meals": 45,
+                "other": 45
+            },
+            "巴哈马": {
+                "putup": 220,
+                "meals": 45,
+                "other": 45
+            },
+            "圣卢西亚": {
+                "putup": 200,
+                "meals": 45,
+                "other": 45
+            },
+            "阿鲁巴岛": {
+                "putup": 200,
+                "meals": 45,
+                "other": 45
+            },
+            "哥斯达黎加": {
+                "putup": 120,
+                "meals": 45,
+                "other": 40
+            }
+        }
+    },
+    {
+        "大洋洲及太平洋岛屿": {
+            "澳大利亚": {
+                "city0": [
+                    "堪培拉",
+                    "帕斯",
+                    "布里斯班"
+                ],
+                "city1": [
+                    "墨尔本",
+                    "悉尼"
+                ],
+                "0": {
+                    "putup": 180,
+                    "meals": 60,
+                    "other": 50
+                },
+                "1": {
+                    "putup": 200,
+                    "meals": 60,
+                    "other": 50
+                },
+                "其它城市": {
+                    "putup": 160,
+                    "meals": 60,
+                    "other": 50
+                }
+            },
+            "新西兰": {
+                "putup": 180,
+                "meals": 60,
+                "other": 45
+            },
+            "萨摩亚": {
+                "putup": 170,
+                "meals": 47,
+                "other": 45
+            },
+            "斐济": {
+                "city0": [
+                    "苏瓦"
+                ],
+                "city1": [
+                    "楠迪"
+                ],
+                "0": {
+                    "putup": 190,
+                    "meals": 45,
+                    "other": 50
+                },
+                "1": {
+                    "putup": 120,
+                    "meals": 45,
+                    "other": 50
+                },
+                "其它城市": {
+                    "putup": 110,
+                    "meals": 45,
+                    "other": 50
+                }
+            },
+            "巴布亚新几内亚": {
+                "putup": 350,
+                "meals": 55,
+                "other": 50
+            },
+            "密克罗尼西亚": {
+                "putup": 120,
+                "meals": 40,
+                "other": 30
+            },
+            "马绍尔群岛": {
+                "putup": 120,
+                "meals": 55,
+                "other": 35
+            },
+            "瓦努阿图": {
+                "putup": 150,
+                "meals": 55,
+                "other": 35
+            },
+            "基里巴斯": {
+                "putup": 195,
+                "meals": 55,
+                "other": 35
+            },
+            "汤加": {
+                "putup": 160,
+                "meals": 60,
+                "other": 35
+            },
+            "帕劳": {
+                "putup": 180,
+                "meals": 60,
+                "other": 35
+            },
+            "库克群岛": {
+                "putup": 180,
+                "meals": 60,
+                "other": 35
+            },
+            "所罗门群岛": {
+                "putup": 200,
+                "meals": 60,
+                "other": 35
+            },
+            "法属留尼汪": {
+                "putup": 140,
+                "meals": 60,
+                "other": 35
+            },
+            "法属波利尼西亚": {
+                "putup": 240,
+                "meals": 60,
+                "other": 35
+            }
+        }
+    }]
+
